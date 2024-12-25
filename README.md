@@ -13,7 +13,7 @@ My progress with CTFs, encompassing the ones I make.
 
 
 ## My own CTFs
-- <a href="02_My-CTFs/01_Caesars-crazy-night">Caesars' Crazy Night</a> (cryptography and Linux)
+- <a href="02_My-CTFs/01_Caesars-crazy-night">Caesars' Crazy Night</a> (encryption and password security)
 
 Feel free to send me your proposed solutions! Even contribute, if you want :)
 <br/>
